@@ -48,6 +48,3 @@
 <div align="center">
   <b></b>Thank you for reading this far and don't forget to add me on. See you later!
 <div>
-[linkedin]:https://www.linkedin.com/in/abraham-kwizera/
-[instagram]:https://www.instagram.com/kwizera_abraham/
-[gmail]:mailto:kwiz.abraham@gmail.com
