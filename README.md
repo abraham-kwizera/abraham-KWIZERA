@@ -27,7 +27,7 @@
 <h3>Learning more</h3>
 <img src="https://img.shields.io/badge/-java-rgba(0, 33, 29, 1)?style=for-the-badge&logo=Java&logoColor=rgba(0, 125, 93, 1)" target="_blank">
 <img src="https://img.shields.io/badge/-Spring Boot-rgba(0, 33, 29, 1)?style=for-the-badge&logo=SpringBoot&logoColor=rgba(0, 125, 93, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-react(0, 33, 29, 1)?style=for-the-badge&logo=react&logoColor=rgba(0, 125, 93, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-react-rgba(0, 33, 29, 1)?style=for-the-badge&logo=React&logoColor=rgba(0, 125, 93, 1)" target="_blank">
 <img src="https://img.shields.io/badge/-Soft Skills-rgba(0, 33, 29, 1)?style=for-the-badge&logo=Soft&logoColor=rgba(0, 125, 93, 1)" target="_blank">
 </div>
 
