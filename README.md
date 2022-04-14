@@ -1,7 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=abraham-kwizera&style=flat-square)
 ### Hello World, I'm Abraham KWIZERA 👋 aka IbraH ⭐:
-
-<img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abraham-kwizera/abraham-kwizera/blob/main/animation/animation-hero.gif?raw=true" height="300"/>
 
 ## I'm a dev Newbie, with vision of being AI passionate, Geek !!
 - ✍ You can find my achievements here.
