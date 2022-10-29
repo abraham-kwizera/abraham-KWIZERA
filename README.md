@@ -1,20 +1,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=abraham-kwizera&style=flat-square)
 ### Hello World, I'm Abraham KWIZERA 👋 aka IbraH ⭐:
-<img align="right" alt="GIF" src="https://github.com/abraham-kwizera/abraham-kwizera/blob/main/animation/animation-hero.gif?raw=true" height="300"/>
+<img align="right" alt="GIF" src="https://github.com/abraham-kwizera/abraham-kwizera/blob/main/animation/animation-hero.gif?raw=true" height="200"/>
 
-## I'm a dev Newbie, with vision of being AI passionate, Geek !!
-- ✍ You can find my achievements here.
-- 🌱 I’m currently learning JavaScript and its Frameworks.
-- 👯 I’m looking to collaborate on open source.
-- 💬 Ask me about ... Anything.
-- ⚡  I speak 4 languages (English, French, Kinyarwanda, Kirundi).
-
+### I'm a Software developer 
+ ✍ You can find my achievements [here](https://abrahamkdev.netlify.app/).
 
 </br>
-
-  <summary><b>Technical Info</b></summary>
-
-<div align="center">
+<div align="left">
 <h3>My Technologies</h3> 
 
 | 🎛️ Operating System     | Version Control | 🎨 Design |
@@ -27,7 +19,7 @@
   
 </div>
 
-<div align="center">
+<div align="left">
 <h3>Learning more</h3>
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
@@ -36,12 +28,16 @@
 
 <br>
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/abraham-kwizera">
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=abraham-kwizera&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-kwizera&layout=compact&langs_count=7&theme=default"/>
-</a>
-</div>
+
+ </a>
+</div> 
+
+<br>
+
+[![@abraham_kwizera's Holopin board](https://holopin.me/abraham_kwizera)](https://holopin.io/@abraham_kwizera).
 
 ### Lets's Connnect: 
 <br>
@@ -51,5 +47,5 @@
 <a href="https://www.facebook.com/people/Abraham-Kwizera/100010696840030/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"  target="_blank"></a>
 
 <div align="center">
-  <b></b>Thank you for reading this far and don't forget to add me on. See you later!
+  <b>Thank you for reading this far and don't forget to add me on. See you later!</b>
 <div>
